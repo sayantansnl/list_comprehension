@@ -63,4 +63,4 @@ We are working on building a new programming language called **RobustaScript**, 
 
 We wanted to use `for` loops, but we’re writing Python, and loops would make this functionality slow (Ouch).
 
-Complete the function `map`. It takes a list of values of any type and a function that transforms an item to a new item and returns a new list.
+Complete the function `map`. It takes a list of values of any type and a function that transforms an item to a new item as parameters. It should return a new list.
