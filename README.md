@@ -4,7 +4,7 @@ List comprehension is a super concise way to create a new list by applying an ex
 
 Consider the following example. We create a new list containing only even numbers from an existing list using a for-loop. 
 
-`
+```
 res = []
 x = [1, 2, 3, 4, 5, 6]
 for num in x:
@@ -14,4 +14,4 @@ for num in x:
 print(res)
 #  [2, 4, 6]
 
-`
+```
