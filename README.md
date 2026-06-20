@@ -61,6 +61,6 @@ condition (optional) = to check if an individual value should be included at all
 
 We are working on building a new programming language called **RobustaScript**, and we need to have functionality called “map” for transforming original arrays (yes, we are calling ‘lists’ arrays in this language) to a new array. 
 
-We wanted to use `for` loops, but we’re writing Python, and for loops would make this functionality slow (Ouch).
+We wanted to use `for` loops, but we’re writing Python, and loops would make this functionality slow (Ouch).
 
 Complete the function `map`. It takes a list of values of any type and a function that transforms every item in the list and returns a new list.
