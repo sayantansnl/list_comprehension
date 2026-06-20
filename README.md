@@ -57,7 +57,7 @@ expression: what you want to do to the item before you put it in your new list (
 for item in iterable: the standard loop that will step through each value in the array.
 condition (optional) = to check if an individual value should be included at all.
 
-## Assignment
+## Assignment (difficulty: 5)
 
 We are working on building a new programming language called **RobustaScript**, and we need to have functionality called “map” for transforming original arrays (yes, we are calling ‘lists’ arrays in this language) to a new array. 
 
