@@ -26,7 +26,7 @@ print (res)
 #  [2, 4, 6]
 ```
 
-It’s not just concise; it’s small, it’s beautiful, and it’s [Pythonic](https://en.wikipedia.org/wiki/Zen_of_Python#Being_Pythonic)!
+It’s not just concise; it’s beautiful and [Pythonic](https://en.wikipedia.org/wiki/Zen_of_Python#Being_Pythonic)!
 
 We can even use functions in a list comprehension. We’re going to create a new list by squaring every integer within an existing list.
 
