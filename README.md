@@ -2,7 +2,7 @@
 
 List comprehension is a super concise way to create a new list by applying an expression or a condition to each item in an existing list. 
 
-Consider the following example. We create a new list containing only even numbers from an existing list using a for-loop. 
+Consider the following example. We create a new list containing only even numbers from an existing list using a `for` loop. 
 
 ```
 res = []
@@ -53,9 +53,9 @@ The format of list comprehension is simple:
 
 `result_list = [expression for item in iterable if condition]`
 
-expression: what you want to do to the item before you put it in your new list (e.g., square_number(val)).
-for item in iterable: the standard loop that will step through each value in the array.
-condition (optional) = to check if an individual value should be included at all.
+- expression: what you want to do to the item before you put it in your new list (e.g., square_number(val)).
+- for item in iterable: the standard loop that will step through each value in the array.
+- condition (optional) = to check if an individual value should be included at all.
 
 ## Assignment (difficulty: 5)
 
