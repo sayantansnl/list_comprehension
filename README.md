@@ -59,8 +59,8 @@ The format of list comprehension is simple:
 
 ## Assignment (difficulty: 5)
 
-We are working on building a new programming language called **RobustaScript**, and we need to have functionality called “map” for transforming original arrays (yes, we are calling ‘lists’ arrays in this language) to a new array. 
+We are working on building a new programming language called **RobustaScript**, and we need to have a functionality called `map` for transforming original arrays (yes, we are calling ‘lists’ arrays in this language) to a new array. 
 
-We wanted to use `for` loops, but we’re writing Python, and loops would make this functionality slow (Ouch).
+We wanted to use `for` loops, but we’re writing Python, and they'd make this functionality slow (ouch).
 
 Complete the function `map`. It takes a list of values of any type and a function that transforms an item to a new item as parameters. It should return a new list.
