@@ -53,7 +53,7 @@ The format of list comprehension is simple:
 
 `result_list = [expression for item in iterable if condition]`
 
-- expression: what you want to do to the item before you put it in your new list (e.g., square_number(val)).
+- expression: what you want to do to the item before you put it in your new list (e.g., `square_number(val)`).
 - for item in iterable: the standard loop that will step through each value in the array.
 - condition (optional): to check if an individual value should be included at all.
 
